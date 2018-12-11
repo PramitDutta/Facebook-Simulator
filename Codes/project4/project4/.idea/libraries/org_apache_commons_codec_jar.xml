@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org-apache-commons-codec.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../org-apache-commons-codec.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../../../org-apache-commons-codec.jar.zip!/" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(C:\Users\Hp\IdeaProjects\Project4_1\src\main\scala\client.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Hp\IdeaProjects\Project4_1\src\main\scala\client.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Hp\IdeaProjects\Project4_1\src\main\scala\client.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\Hp\IdeaProjects\Project4_1\src\main\scala\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 59893767, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_60\lib\resources.jar;C:\Program Files\Java\jre1.8.0_60\lib\rt.jar;C:\Program Files\Java\jre1.8.0_60\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_60\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_60\lib\jce.jar;C:\Program Files\Java\jre1.8.0_60\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_60\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_60\classes;C:\Users\Hp\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Hp\IdeaProjects\Project4_1\src\main\scala\target\scala-2.11\classes;C:\Users\Hp\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.13.jar;C:\Users\Hp\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-routing_2.11\bundles\spray-routing_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-http_2.11\bundles\spray-http_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-util_2.11\bundles\spray-util_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\org.parboiled\parboiled-scala_2.11\jars\parboiled-scala_2.11-1.1.7.jar;C:\Users\Hp\.ivy2\cache\org.parboiled\parboiled-core\jars\parboiled-core-1.1.7.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-httpx_2.11\bundles\spray-httpx_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.3.jar;C:\Users\Hp\.ivy2\cache\org.jvnet.mimepull\mimepull\jars\mimepull-1.9.5.jar;C:\Users\Hp\.ivy2\cache\com.chuusai\shapeless_2.11\jars\shapeless_2.11-1.2.4.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-can_2.11\bundles\spray-can_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-io_2.11\bundles\spray-io_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-client_2.11\bundles\spray-client_2.11-1.3.3.jar;C:\Users\Hp\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar;C:\Users\Hp\.ivy2\cache\org.json4s\json4s-native_2.11\jars\json4s-native_2.11-3.2.10.jar;C:\Users\Hp\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.2.10.jar;C:\Users\Hp\.ivy2\cache\org.json4s\json4s-ast_2.11\jars\json4s-ast_2.11-3.2.10.jar;C:\Users\Hp\.ivy2\cache\com.thoughtworks.paranamer\paranamer\jars\paranamer-2.6.jar;C:\Users\Hp\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.11.0.jar;C:\Users\Hp\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.0.jar;C:\Users\Hp\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.0.jar;C:\Users\Hp\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Hp\.ivy2\cache\com.typesafe.scala-logging\scala-logging-slf4j_2.11\jars\scala-logging-slf4j_2.11-2.1.2.jar;C:\Users\Hp\.ivy2\cache\com.typesafe.scala-logging\scala-logging-api_2.11\jars\scala-logging-api_2.11-2.1.2.jar;C:\Users\Hp\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.7.jar;C:\Users\Hp\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.1.2.jar;C:\Users\Hp\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.1.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 8.188680988 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
